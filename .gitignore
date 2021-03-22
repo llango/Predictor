@@ -1,0 +1,9 @@
+.vscode
+ML/.ipynb_checkpoints
+djangoapi/db.sqlite3
+venv
+.DS_Store
+vue/heart/node_modules
+__pycache__/
+*.py[cod]
+*$py.class
